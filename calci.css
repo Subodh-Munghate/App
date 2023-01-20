@@ -1,11 +1,11 @@
 .main{
     margin: 0 auto;
-    margin-top: 150rem;
+    margin-top: 150px;
     background-color: azure;
     display : flex;
-    width : 18rem;
+    width : 18vw;
     border: 3px solid gray;
-    height: 45rem;
+    height: 45vh;
     text-align: center;
     border-radius: 10%;
     box-shadow: 8px 5px 10px grey;
@@ -14,10 +14,10 @@
     .display{
         border-radius: 20%;
         /* background-color: antiquewhite; */
-        width: 15rem;
-        margin-top: 20rem;
-        margin-left: 15rem;
-        height: 7rem;
+        width: 15vw;
+        margin-top: 20px;
+        margin-left: 15px;
+        height: 7vh;
         /* box-shadow: 5px 5px 10px goldenrod; */
     }
 
